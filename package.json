@@ -1,0 +1,16 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "Pirple Homework Assignment 1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggingras/PirpleHomeworkAssignment1.git"
+  },
+  "author": "Gaetan Gingras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggingras/PirpleHomeworkAssignment1/issues"
+  },
+  "homepage": "https://github.com/ggingras/PirpleHomeworkAssignment1#readme"
+}
